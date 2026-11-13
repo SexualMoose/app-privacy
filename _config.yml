@@ -1,2 +1,7 @@
 title: App privacy policies
 description: Privacy policies for the KeyCourier, PriceLens, OpenCube, WallPlanner and Projector+ Android apps.
+# Only the policy pages are served; the repository documents stay on GitHub.
+exclude:
+  - README.md
+  - PROJECT-DOCUMENTATION.md
+  - LICENSE.md
