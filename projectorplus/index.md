@@ -4,7 +4,7 @@ title: Projector+ privacy policy
 
 # Projector+ privacy policy
 
-_Last updated: 13 November 2026_
+_Last updated: 14 November 2026_
 
 This policy covers Projector+, the app published on Google Play by the Projector+ developer. Projector+ controls the Insta-Share Projector, a Moto Mods accessory, from your phone. The public copy of this policy is at https://sexualmoose.github.io/app-privacy/projectorplus/ and the same text is built into the app.
 
@@ -16,13 +16,15 @@ Projector+ does not collect, share or sell any personal or device data. It has n
 
 - Your projector settings (brightness, keystone, colour and similar options) are saved only in the app's private storage on your phone.
 - The phone's battery broadcast is read to show the phone and projector battery levels and an estimated runtime. These readings stay in memory on the phone and are never saved or sent.
-- The app talks to the projector through the phone's own Moto Mods service. Nothing from the projector leaves the phone.
+- The app talks to the projector through the phone's own Moto Mods service. Projector+ sends nothing it reads from the projector anywhere.
 - While the projector is on, the app notices when a phone call starts, so it can switch the projector off (the "Turn off during calls" option). It only learns that a call is in progress. It does not read phone numbers, contacts or call history.
 - The app checks whether Motorola's own projector app is enabled, and reads three Android developer options that are known to interfere with the projector, so it can show a warning. It does not read the list of your other apps.
 
 ## Where data goes
 
 Nowhere. Projector+ has no internet permission, so it cannot send anything off your phone. It contains no advertising, analytics or crash-reporting code, and it shares nothing with the developer or anyone else.
+
+One button hands over to other software: "Check for firmware update" opens Motorola's own Moto Mods update screen, which is part of the phone and not of Projector+. That screen can contact Motorola to look for projector firmware, under Motorola's privacy policy. Projector+ passes it no data.
 
 ## Retention and deletion
 
